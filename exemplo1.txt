@@ -1,0 +1,4 @@
+Para adicionar um arquivo ao stage, usamos: 
+git add nomearquivo
+ou para adicionar todos os arquvios ao mesmo tempo:
+git add .
