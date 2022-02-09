@@ -1,0 +1,17 @@
+1. Para iniciar um repositório git, usamos:
+git init
+
+2. Para adicionar um arquivo ao stage, usamos: 
+git add nomearquivo
+ou para adicionar todos os arquivos ao mesmo tempo:
+git add .
+
+Obs.: Se for a primeira vez comitando um repositório, usamos:
+git config --global user.email "email usado no cadastro do github"
+git config --global user.name "nome que vc quer que apareça no histório de commites"
+
+3. Para comitar um arquivo, usamos:
+git commit -m "mensagem que você quer que apareça no commit"
+
+4. Para apontarmos para o github, usamos:
+git push -u origin master
