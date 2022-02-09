@@ -1,4 +1,10 @@
-Para adicionar um arquivo ao stage, usamos: 
+1. Para iniciar um repositório git, usamos:
+git init
+
+2. Para adicionar um arquivo ao stage, usamos: 
 git add nomearquivo
-ou para adicionar todos os arquvios ao mesmo tempo:
+ou para adicionar todos os arquivos ao mesmo tempo:
 git add .
+
+3. Para comitar um arquivo, usamos:
+git commit -m "mensagem que você que rque apareça no commit"
